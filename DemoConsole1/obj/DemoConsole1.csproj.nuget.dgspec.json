@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/DemoConsole1.csproj": {}
+  },
+  "projects": {
+    "/Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/DemoConsole1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/DemoConsole1.csproj",
+        "projectName": "DemoConsole1",
+        "projectPath": "/Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/DemoConsole1.csproj",
+        "packagesPath": "/Users/adisol/.nuget/packages/",
+        "outputPath": "/Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adisol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/cosmos/Packages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj": {
+                "projectPath": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-preview.1.24101.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj",
+        "projectName": "SocketSharp",
+        "projectPath": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj",
+        "packagesPath": "/Users/adisol/.nuget/packages/",
+        "outputPath": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adisol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/opt/cosmos/Packages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-preview.1.24101.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

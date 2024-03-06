@@ -1,0 +1,11 @@
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/bin/Debug/net9.0/SocketSharp.deps.json
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/bin/Debug/net9.0/SocketSharp.dll
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/bin/Debug/net9.0/SocketSharp.pdb
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.AssemblyInfoInputs.cache
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.AssemblyInfo.cs
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.csproj.CoreCompileInputs.cache
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.dll
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/refint/SocketSharp.dll
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.pdb
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/ref/SocketSharp.dll
