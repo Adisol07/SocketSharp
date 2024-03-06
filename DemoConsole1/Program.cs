@@ -11,6 +11,7 @@ internal class Program
         server.OnClientConnected += (client) =>
         {
             Console.WriteLine("Connected: " + client);
+            server.Send(client, Encoding.UTF8.GetBytes("Hello World!"));
         };
         server.OnClientDisconnected += (client) =>
         {

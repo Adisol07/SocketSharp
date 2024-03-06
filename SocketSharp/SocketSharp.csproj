@@ -4,6 +4,17 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>Adisol.SocketSharp</PackageId>
+    <Version>1.0.1</Version>
+    <Author>Adisol</Author>
+    <Product>SocketSharp</Product>
+    <Description>
+      SocketSharp is library to help you with networking
+    </Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <repositoryurl>https://github.com/Adisol07/SocketSharp.git</repositoryurl>
+    <PackageTags>SocketSharp;Socket;Network;Networking</PackageTags>
+    <Title>SocketSharp</Title>
   </PropertyGroup>
 
 </Project>

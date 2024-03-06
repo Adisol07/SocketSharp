@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net9.0": {
-      "SocketSharp/1.0.0": {
+      "Adisol.SocketSharp/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/SocketSharp.dll": {}
+          "bin/placeholder/Adisol.SocketSharp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SocketSharp.dll": {}
+          "bin/placeholder/Adisol.SocketSharp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SocketSharp/1.0.0": {
+    "Adisol.SocketSharp/1.0.1": {
       "type": "project",
       "path": "../SocketSharp/SocketSharp.csproj",
       "msbuildProject": "../SocketSharp/SocketSharp.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "SocketSharp >= 1.0.0"
+      "Adisol.SocketSharp >= 1.0.1"
     ]
   },
   "packageFolders": {

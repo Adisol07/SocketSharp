@@ -16,3 +16,4 @@
 /Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/obj/Debug/net9.0/DemoConsole1.pdb
 /Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/obj/Debug/net9.0/DemoConsole1.genruntimeconfig.cache
 /Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/obj/Debug/net9.0/ref/DemoConsole1.dll
+/Users/adisol/Documents/Projects/SocketSharp/DemoConsole1/obj/Debug/net9.0/DemoConsole1.sourcelink.json
