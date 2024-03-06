@@ -5,10 +5,10 @@
   },
   "projects": {
     "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj",
-        "projectName": "SocketSharp",
+        "projectName": "Adisol.SocketSharp",
         "projectPath": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj",
         "packagesPath": "/Users/adisol/.nuget/packages/",
         "outputPath": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/",

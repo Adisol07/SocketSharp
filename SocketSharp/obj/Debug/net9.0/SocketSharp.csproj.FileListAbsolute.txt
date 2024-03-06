@@ -9,3 +9,4 @@
 /Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/refint/SocketSharp.dll
 /Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.pdb
 /Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/ref/SocketSharp.dll
+/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/obj/Debug/net9.0/SocketSharp.sourcelink.json
