@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <PackageId>Adisol.SocketSharp</PackageId>
     <Version>1.0.1</Version>
-    <Author>Adisol</Author>
+    <Authors>Adisol</Authors>
     <Product>SocketSharp</Product>
     <Description>
       SocketSharp is library to help you with networking

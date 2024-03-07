@@ -10,11 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SocketSharp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Adisol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("\r\n      SocketSharp is library to help you with networking\r\n    ")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("\n      SocketSharp is library to help you with networking\n    ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+f9fdc7d149fab64cf1c6353e64f206044e2e816a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+d97a1a7e9c0136915431d7132d6009f47e52bc88")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocketSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocketSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

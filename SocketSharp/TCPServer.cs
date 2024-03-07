@@ -8,6 +8,7 @@ namespace SocketSharp;
 public class TCPServer
 {
     private TcpListener? listener;
+    private bool canStop = false;
 
     public Dictionary<string, TcpClient>? Clients { get; private set; }
     public bool IsListening { get; private set; } = false;
@@ -46,6 +47,11 @@ public class TCPServer
         }
         Clients.Clear();
         IsListening = false;
+        _ = Task.Run(() => {
+            while (!canStop) {
+                Thread.Sleep(100);
+            }
+        });
         listener?.Stop();
     }
     public async Task Send(string client, byte[] data)
@@ -71,6 +77,7 @@ public class TCPServer
 
                 _ = Task.Run(() => handleClient(client));
             }
+            canStop = true;
         });
     }
 

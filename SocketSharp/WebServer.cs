@@ -1,6 +1,7 @@
 using System;
 using System.Text;
 using System.Net;
+using System.Security.Cryptography;
 
 namespace SocketSharp;
 
@@ -23,6 +24,16 @@ public class WebServer
         listener?.Start();
         IsListening = true;
         listen();
+    }
+    public void Stop()
+    {
+        IsListening = false;
+        _ = Task.Run(() => {
+            while (listener!.IsListening) {
+                Thread.Sleep(100);
+            }
+        });
+        listener?.Stop();
     }
 
     private void listen()
