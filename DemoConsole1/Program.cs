@@ -7,7 +7,7 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        RoutedWebServer server = new RoutedWebServer();
+        FileWebServer server = new FileWebServer("./test");
         server.Start();
         Console.ReadKey();
     }
