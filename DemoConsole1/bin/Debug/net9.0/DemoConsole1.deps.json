@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v9.0": {
       "DemoConsole1/1.0.0": {
         "dependencies": {
-          "Adisol.SocketSharp": "1.0.1",
-          "SocketSharp": "1.0.1.0"
+          "Adisol.SocketSharp": "1.1.0",
+          "SocketSharp": "1.1.0.0"
         },
         "runtime": {
           "DemoConsole1.dll": {}
         }
       },
-      "Adisol.SocketSharp/1.0.1": {
+      "Adisol.SocketSharp/1.1.0": {
         "runtime": {
           "SocketSharp.dll": {}
         }
       },
-      "SocketSharp/1.0.1.0": {
+      "SocketSharp/1.1.0.0": {
         "runtime": {
           "SocketSharp.dll": {
-            "assemblyVersion": "1.0.1.0",
-            "fileVersion": "1.0.1.0"
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
           }
         }
       }
@@ -36,12 +36,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Adisol.SocketSharp/1.0.1": {
+    "Adisol.SocketSharp/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "SocketSharp/1.0.1.0": {
+    "SocketSharp/1.1.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

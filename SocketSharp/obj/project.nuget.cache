@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "suGgi7GubMnwTEwdcMzMcrn9QBqUScjjq5H2sBYPix/8TUlZiXpv1bZoLyFrGSpiJZF25QctkdSffnpqcvNI8w==",
+  "dgSpecHash": "6UEcN3ndAIufCQT2Qwz42Jbeqc2ah2ZbGbDEnijyLUb49O4PvvncCxwqdPlcHuwp88W0wCncOZ1gKT9SdZY+6w==",
   "success": true,
   "projectFilePath": "/Users/adisol/Documents/Projects/SocketSharp/SocketSharp/SocketSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/adisol/.nuget/packages/microsoft.netcore.app.ref/8.0.1/microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
